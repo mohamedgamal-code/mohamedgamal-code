@@ -16,10 +16,10 @@
 <a href="https://www.upwork.com/freelancers/~0194a7d28b23a1525f">
   <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="https://my-portfolio-3y8d.vercel.app">
+<a href="https://mohamed-gamal-portfolio-alpha.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/mohamed-gamal-3965663a3">
+<a href="https://www.linkedin.com/in/mohamed-gamal-code/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Mohamed-Gamal-code">
