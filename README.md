@@ -13,15 +13,19 @@
     I create <b>production-ready, scalable web applications</b> with clean architecture and real business impact.
   </p>
   
-<a href="https://mohamed-gamal-portfolio-alpha.vercel.app/">
+<a
+  href="https://mohamed-gamal-portfolio-alpha.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/mohamed-gamal-code/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/Mohamed-Gamal-code">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.upwork.com/freelancers/~0194a7d28b23a1525f">
   <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
