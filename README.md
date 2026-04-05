@@ -14,7 +14,7 @@
   </p>
   
 <a
-  href="mohamedgamal-web.vercel.app/">
+  href="https://mohamedgamal-web.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -167,4 +167,4 @@ and building real products for real businesses.
 
 - 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~0194a7d28b23a1525f)  
 - 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/mohamed-gamal-code/)  
-- 🌐 Portfolio: [Visit](mohamedgamal-web.vercel.app)
+- 🌐 Portfolio: [Visit](https://mohamedgamal-web.vercel.app/)
