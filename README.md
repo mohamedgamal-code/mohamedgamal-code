@@ -69,10 +69,10 @@ and managing schedules efficiently.
 - **Stack:** `Next.js 14` `TypeScript` `Tailwind CSS` `Clerk` `MongoDB`
 
 <p>
-  <a href="https://medicare-platform-gamma.vercel.app">
+  <a href="https://medicare-well.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Mohamed-Gamal-code/doc-connect">
+  <a href="https://github.com/mohamedgamal-code/doc-connect">
     <img src="https://img.shields.io/badge/GitHub-View_Code-blueviolet?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -86,13 +86,13 @@ and checkout flow — designed for performance and growth.
 - **Stack:** `Next.js` `Node.js` `Express` `MongoDB`
 
 <p>
-  <a href="https://ecommerce-frontend-alpha-gray.vercel.app">
+  <a href="https://ecommerce-expert.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Frontend-success?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Mohamed-Gamal-code/ecommerce-frontend">
+  <a href="https://github.com/mohamedgamal-code/ecommerce-frontend">
     <img src="https://img.shields.io/badge/Frontend-Code-blueviolet?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/Mohamed-Gamal-code/my-ecommerce-backend-">
+  <a href="https://github.com/mohamedgamal-code/my-ecommerce-backend-">
     <img src="https://img.shields.io/badge/Backend-Code-blueviolet?style=for-the-badge&logo=github" />
   </a>
 </p>
