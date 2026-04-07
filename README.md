@@ -106,10 +106,10 @@ A production-ready, full-stack hotel booking platform built to deliver a refined
 
 **Next.js 15 (App Router)** · **TypeScript** · **Tailwind CSS** · **Supabase (PostgreSQL, Auth, RLS)** · **Server Actions** · **SSR**
 <p> 
-  <a href="https://luxestay-guest-platform.vercel.app"> 
+  <a href="https://luxestay-booking.vercel.app/"> 
     <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel" /> 
   </a>
-  <a href="https://github.com/Mohamed-Gamal-code/luxestay-guest-experience"> 
+  <a href="https://github.com/mohamedgamal-code/luxestay-guest-experience"> 
     <img src="https://img.shields.io/badge/GitHub-View_Code-blueviolet?style=for-the-badge&logo=github" /> 
   </a>
 </p>
