@@ -145,7 +145,7 @@ A production-ready, full-stack hotel booking platform built to deliver a refined
 
 | 📊 **GitHub Statistics** | ⚡ **Tech Stack** |
 | :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c6bc0&icon_color=c5cae9&text_color=7986cb" height="175" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dark" alt="Top Langs" /> |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedgamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c6bc0&icon_color=c5cae9&text_color=7986cb" height="175" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedgamal-code&layout=compact&theme=dark" alt="Top Langs" /> |
 
 <br />
 
